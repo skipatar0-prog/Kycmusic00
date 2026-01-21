@@ -1,5 +1,5 @@
 {
-  "name": "TamilVcMusic",
+  "name": "KıyıcıMusic",
   "logo": "https://telegra.ph/file/a948caa899055d6109fad.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
@@ -19,15 +19,15 @@
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "A bot token from @BotFather",
+      "description": "6723540039:AAGe2NAzUS8ZB_BHmiIMFjn9xBImkqXfS6s",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "Your bot's username without @",
+      "description": "Kycmuzikbot",
       "required": true
     },
     "BOT_NAME": {
-      "description": "Your MusicPlayer Bot Name.",
+      "description": "Kıyıcı Muzik",
       "required": false,
       "value": ""
     },
@@ -46,7 +46,7 @@
       "required": true
     },
     "ARQ_API_KEY": {
-      "description": "Get from @ARQRobot.",
+      "description": "ZVPPUB-PMPREM-KZGYJK-JVSFVL-ARQ",
       "required": false,
       "value": ""
     },    
@@ -70,7 +70,7 @@
       "value": "ENABLE"
     },    
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps",
+      "description": "0e156557bde6def9a8541cc8c65d57df",
       "required": true
     },
     "SUDO_USERS": {
@@ -80,7 +80,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "10"
+      "value": "80"
     }
   }
 }
